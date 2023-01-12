@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+# Sitio web desplegado [Qr code component ](https://acarballeira-qr-code-component.netlify.app/).
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
